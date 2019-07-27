@@ -1,6 +1,6 @@
 # :musical_note: Speed Video 
 
-Play video at your speed. Video player with 6× speed facility and Picture in picture support for Firefox.
+Play video at your speed. Video player with 6× speed facility and Picture in picture support for Firefox. Sample at https://jishanshaikh4.github.io/speed-video/
 
 ## Major features
 
